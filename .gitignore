@@ -1,0 +1,6 @@
+/.idea
+.directory
+node_modules
+package-lock.json
+/build
+/.git_b
